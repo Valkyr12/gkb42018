@@ -62,6 +62,10 @@ body,p,h1,h2,h3,h4,h5,h6 {
     background-color: rgba(65, 131, 215, 0.64);
 }
 
+.single-fun-fact img {
+	max-width: 100%;
+}
+
 @media screen and (min-width:992px) {
 	.col-md-offset-half {
 		margin-left: 4.333333%;
